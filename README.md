@@ -29,7 +29,8 @@ You may study `testCaclulate1` as a sample. This test case should make a connect
 
 What benefit do we have from having integration tests in our project?
 ```
-Your though here
+My though is
+Integration tests help ensure that different components or modules of our application work correctly when they are integrated together. This validates the end-to-end functionality of our software, simulating how it will operate in a production environment.
 ```
 
 
